@@ -1,0 +1,32 @@
+body{
+    background-image: url("/coffee.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#contain{
+
+    max-height: 900px;
+    width: 450px;
+    padding: 20px;
+    margin: 50px 5px 5px 150px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    background-color: rgba(212, 212, 212, 0.4);
+    align-items: center;
+}
+button{
+    margin: 20px;
+}
+input{
+    width: 95%;
+    height: 45px;
+}
+h1{
+    align-self: center;
+}
+.done{
+    background-color: brown;
+}
+.undone{
+    background-color: teal;
+}
